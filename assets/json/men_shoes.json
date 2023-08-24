@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "Men's Classic Shoe",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://streetstyleshop.vn/wp-content/uploads/2022/05/the-thao-nam-chat-10.jpg",
+      "https://vcdn-giadinh.vnecdn.net/2021/08/04/60c1cc07d8f3a-a9a2fc19dad22dd7-4545-2467-1628055575.jpg"
+    ],
+    "oldPrice": 79.99,
+    "sizes": [
+      {
+        "size": "6.0",
+        "isSelected": false
+      },
+      {
+        "size": "7.0",
+        "isSelected": true
+      },
+      {
+        "size": "8.0",
+        "isSelected": false
+      },
+      {
+        "size": "9.0",
+        "isSelected": false
+      }
+    ],
+    "price": 64.99,
+    "description": "A comfortable and stylish classic shoe for men.",
+    "title": "Classic Men's Shoe"
+  },
+  {
+    "id": "2",
+    "name": "Men's Classic Shoe",
+    "category": "Casual",
+    "imageUrl": [
+      "https://streetstyleshop.vn/wp-content/uploads/2022/05/the-thao-nam-chat-10.jpg",
+      "https://vcdn-giadinh.vnecdn.net/2021/08/04/60c1cc07d8f3a-a9a2fc19dad22dd7-4545-2467-1628055575.jpg"
+    ],
+    "oldPrice": 79.99,
+    "sizes": [
+      {
+        "size": "6.0",
+        "isSelected": false
+      },
+      {
+        "size": "7.0",
+        "isSelected": true
+      },
+      {
+        "size": "8.0",
+        "isSelected": false
+      },
+      {
+        "size": "9.0",
+        "isSelected": false
+      }
+    ],
+    "price": 64.99,
+    "description": "A comfortable and stylish classic shoe for men.",
+    "title": "Classic Men's Shoe"
+  }
+]

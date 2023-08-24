@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "Example Shoe 1",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://salt.tikicdn.com/cache/400x400/ts/product/61/e7/1b/382cde1565bcb511ba2dd3134ec69868.jpg",
+      "https://salt.tikicdn.com/cache/400x400/ts/product/61/e7/1b/382cde1565bcb511ba2dd3134ec69868.jpg"
+    ],
+    "oldPrice": 60.0,
+    "sizes": [
+      {
+        "size": "6.0",
+        "isSelected": false
+      },
+      {
+        "size": "7.0",
+        "isSelected": true
+      },
+      {
+        "size": "8.0",
+        "isSelected": false
+      },
+      {
+        "size": "9.0",
+        "isSelected": false
+      }
+    ],
+    "price": 45.0,
+    "description": "A comfortable and stylish shoe for everyday wear.",
+    "title": "Comfy Casual Shoe"
+  },
+  {
+    "id": "2",
+    "name": "Example Shoe 1",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://hanghieusieucap.vn/wp-content/uploads/2023/06/giay-sneaker-louis-vuitton-nu-hang-hieu-sieu-cap-400x400.jpg",
+      "https://hanghieusieucap.vn/wp-content/uploads/2023/06/giay-sneaker-louis-vuitton-nu-hang-hieu-sieu-cap-400x400.jpg"
+    ],
+    "oldPrice": 60.0,
+    "sizes": [
+      {
+        "size": "6.0",
+        "isSelected": false
+      },
+      {
+        "size": "7.0",
+        "isSelected": true
+      },
+      {
+        "size": "8.0",
+        "isSelected": false
+      },
+      {
+        "size": "9.0",
+        "isSelected": false
+      }
+    ],
+    "price": 45.0,
+    "description": "A comfortable and stylish shoe for everyday wear.",
+    "title": "Comfy Casual Shoe"
+  }
+]

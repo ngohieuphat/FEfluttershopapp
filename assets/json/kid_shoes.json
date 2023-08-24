@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Kid's Sneakers",
+    "category": "Sneakers",
+    "imageUrl": [
+      "https://phuongstore.vn/uploads/images/detail%202022/giay-the-thao-co-cao-cho-be-trai-be-gai-mau-xanh.jpg",
+      "https://cdn.topquangngai.vn/wp-content/uploads/2021/01/shop-giay-tre-em-quang-ngai-3.png"
+    ],
+    "oldPrice": 35.99,
+    "sizes": [
+      {
+        "size": "6.0",
+        "isSelected": false
+      },
+      {
+        "size": "7.0",
+        "isSelected": false
+      },
+      {
+        "size": "8.0",
+        "isSelected": true
+      },
+      {
+        "size": "9.0",
+        "isSelected": false
+      }
+    ],
+    "price": 29.99,
+    "description": "A comfortable pair of sneakers for kids.",
+    "title": "Kid's Comfortable Sneakers"
+  }
+]
